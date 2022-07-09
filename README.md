@@ -1,1 +1,1 @@
-# Deep-MachineLearningPaper-Study
+# https://www.notion.so/e1e27f1d51ca4761b44b4d402626e579?v=24351c2009784c0681a91fc955c9bf48
